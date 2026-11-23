@@ -1,0 +1,15 @@
+{
+  "owner": {
+    "username": "a-scripter",
+    "email": "ireallyloveburgerssomuch@gmail.com"
+  },
+  "description": "My personal website hosted on Vercel.",
+  "records": {
+    "A": [
+      "216.198.79.1"
+    ],
+    "TXT": {
+      "_vercel": "vc-domain-verify=ufliy.is-a.dev,7fae8ea7a874c26824db"
+    }
+  }
+}
